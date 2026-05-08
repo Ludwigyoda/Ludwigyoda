@@ -8,7 +8,8 @@ J'ai été commerçant pendant deux ans avant de passer à la tech. Diplômé de
 
 ### En ce moment
 
-Je construis une bibliothèque de templates Next.js + PostgreSQL pour livrer des sites métier rapidement sans repartir de zéro. À côté, je creuse les agents et l'orchestration multi-LLM via le protocole MCP.
+Je construis une activité freelance et dépêches des clients. À côté, je creuse les agents et l'orchestration multi-LLM via le protocole MCP
+Je reste néanmoin ouvert a des proposition sur du plus long terme
 
 ---
 
@@ -31,14 +32,13 @@ Je construis une bibliothèque de templates Next.js + PostgreSQL pour livrer des
 -
 **IA**
 - Claude, Perplexity
-- Lovable, Vercel, canva
-
+- Lovable, Vercel, canva, seedance, Midjourney 
 
 ---
 
 ### Projets
 
-[**urbex-detector**](https://github.com/ludwigyoda)(bientot public sans géoloc)
+[**urbex-detector**](https://github.com/ludwigyoda)(bientot public)
 Pipeline qui prend 900 000 entrées brutes de spots d'urbex, les déduplique, les normalise, les géocode, et sort 50 000 adresses propres avec index spatial dans Postgres.
 
 [**patient-hub**](https://github.com/ludwigyoda)(accès sous demande)
