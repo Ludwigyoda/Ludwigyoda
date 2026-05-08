@@ -51,4 +51,4 @@ Dashboard admin avec push WebSocket, requêtes pré-agrégées Postgres et cache
 
 ### Me joindre
 
-[**Ludwig Linkedin](https://www.linkedin.com/in/ludwig-christiaens-0a3b0723b/)
+[Ludwig Linkedin](https://www.linkedin.com/in/ludwig-christiaens-0a3b0723b/)
