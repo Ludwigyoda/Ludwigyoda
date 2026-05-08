@@ -7,7 +7,7 @@ J'ai été commerçant pendant deux ans avant de passer à la tech. Diplômé de
 
 ### En ce moment
 
-Je construis mon activité freelance et démarche mes premiers clients. À côté, je creuse les agents et l'orchestration multi-LLM grace auquelle je compte proposé des solutions novatrices.
+Je construis mon activité freelance et démarche mes premiers clients. À côté, je creuse les agents et l'orchestration multi-LLM grâce auxquels je compte proposer des solutions novatrices.
 Je reste néanmoins ouvert à des propositions sur du plus long terme.
 
 ---
@@ -16,7 +16,7 @@ Je reste néanmoins ouvert à des propositions sur du plus long terme.
 
 **Web**
 - TypeScript, JavaScript, Java
-- React, Next.js, Astro
+- React, Next.js, Astro, 
 - Node.js
 
 **Mobile**
@@ -38,13 +38,14 @@ Je reste néanmoins ouvert à des propositions sur du plus long terme.
 ### Projets
 
 [**urbex-detector**](https://github.com/ludwigyoda) *(bientôt public)*
-Scraping de spots d'urbex : déduplication, normalisation, géocodage. Sortie de 50 000 adresses propres dans une base accessible par l'application **Ourbex**, qui géolocalise les spots les plus proches de l'utilisateur. Plus d'un million d'adresses disponibles detecté .
+Scraping de spots d'urbex : déduplication, normalisation, géocodage. Sortie de 50 000 adresses propres dans une base accessible par l'application **Ourbex**, qui géolocalise les spots les plus proches de l'utilisateur. Plus d'un million d'adresses disponibles detectées.
 
 [**patient-hub**](https://github.com/ludwigyoda) *(accès sur demande)*
-App React Native qui capte l'accéléromètre en arrière-plan et déclenche un rapport médical au format SOAP quand certains seuils sont franchis.
+App React Native qui capte des marqueurs biométriques de façon passive et déclenche un rapport médical au format SOAP quand certains seuils sont franchis.
+Exemple: Tremblement régulier -> Parkinson selon l'évolution de l'intensité
 
 [**realtime-dashboard**](https://github.com/ludwigyoda) *(accès sur demande)*
-Dashboard admin avec push WebSocket, requêtes pré-agrégées Postgres et cache LRU côté serveur. Plusieurs widgets se rafraîchissent à des fréquences indépendantes selon leur criticité.
+Dashboard admin avec push WebSocket, requêtes pré-agrégées Postgres et cache LRU côté serveur. Plusieurs widgets se rafraîchissent à des fréquences indépendantes.
 
 ---
 
