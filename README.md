@@ -7,7 +7,7 @@ J'ai été commerçant pendant deux ans avant de passer à la tech. Diplômé de
 
 ### En ce moment
 
-Je construis mon activité freelance et démarche mes premiers clients. À côté, je creuse les agents et l'orchestration multi-LLM via le protocole MCP.
+Je construis mon activité freelance et démarche mes premiers clients. À côté, je creuse les agents et l'orchestration multi-LLM grace auquelle je compte proposé des solutions novatrices.
 Je reste néanmoins ouvert à des propositions sur du plus long terme.
 
 ---
