@@ -1,14 +1,14 @@
 ## Ludwig Christiaens
 
 Développeur Web/Mobile basé en Wallonie. Je code des sites, des apps et des outils qui mettent l'IA au boulot.
-J'ai été commerçant pendant deux ans avant de passer à la tech. Diplômé de Technofutur TIC en 2025. Aujourd'hui, freelance.
+Ancienne indépendant en ECommerce. Diplômé de Technofutur TIC en 2025. Aujourd'hui, freelance.
 
 ---
 
 ### En ce moment
 
-Je construis mon activité freelance et démarche mes premiers clients. À côté, je creuse les agents et l'orchestration multi-LLM grâce auxquels je compte proposer des solutions novatrices.
-Je reste néanmoins ouvert à des propositions sur du plus long terme.
+En construction de mon activité freelance et démarchage de mes premiers clients. À côté, je creuse les agents et l'orchestration multi-LLM grâce auxquels je compte proposer des solutions novatrices.
+Je reste néanmoins ouvert à toute propositions.
 
 ---
 
