@@ -1,14 +1,13 @@
 ## Ludwig Christiaens
 
-Développeur Web/Mobile basé en Wallonie. Je code des sites, des apps et des outils qui mettent l'IA au boulot.
-Ancienne indépendant en ECommerce. Diplômé de Technofutur TIC en 2025. Aujourd'hui, freelance.
+Développeur Web/Mobile basé en Wallonie. Je construis des sites, des apps et des outils qui mettent l'IA au boulot.
+Ancien indépendant en en e-com. Diplômé de Technofutur TIC en 2025. Aujourd'hui, en activité via Smart (portage salarial belge).
 
 ---
 
 ### En ce moment
 
-En construction de mon activité freelance et démarchage de mes premiers clients. À côté, je creuse les agents et l'orchestration multi-LLM grâce auxquels je compte proposer des solutions novatrices.
-Je reste néanmoins ouvert à toute propositions.
+Je développe mon activité et démarche mes premiers clients. En parallèle, je creuse les agents et l'orchestration multi-LLM pour proposer des solutions concrètes autour de l'automatisation et de la productivité. Ouvert aux propositions, missions courtes ou longues.
 
 ---
 
@@ -28,10 +27,11 @@ Je reste néanmoins ouvert à toute propositions.
 - PostgreSQL, SQL
 - Docker
 - Linux (hardening VPS, UFW, fail2ban…)
+- Vercel
 
 **IA**
-- Claude, Perplexity
-- Lovable, Vercel, Canva, Seedance, Midjourney
+LLM:Perplexity, Anthropic...
+Agents: outils et contexte via MCP
 
 ---
 
@@ -50,5 +50,6 @@ Dashboard admin avec push WebSocket, requêtes pré-agrégées Postgres et cache
 ---
 
 ### Me joindre
-
+[Email](udwigyoda@gmail.com)
 [Ludwig sur LinkedIn](https://www.linkedin.com/in/ludwig-christiaens-0a3b0723b/)
+[Téléphone]()
