@@ -53,5 +53,5 @@ Dashboard admin avec push WebSocket, requêtes pré-agrégées Postgres et cache
 ### Me joindre
 Email: PatchsNinja@gmail.com
 
-[Ludwig sur LinkedIn](https://www.linkedin.com/in/ludwig-christiaens-0a3b0723b/)
+[LinkedIn](https://www.linkedin.com/in/ludwig-christiaens-0a3b0723b/)
 
