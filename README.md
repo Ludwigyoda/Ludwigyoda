@@ -36,6 +36,9 @@ Agents: outils et contexte via MCP
 ---
 
 ### Projets
+[**Menu de tablette intéractif pour restaurant**(https://github.com/Ludwigyoda/Digital_Restaurant_Menu)] Public
+Menu intéractif pour restaurant avec menu premuim secret, screen lock pour la clientèle, système d'update et de fonctionnement offline automatique.
+Le restaurant est basée en Chine il est donc multingue.
 
 [**urbex-detector**](https://github.com/ludwigyoda) *(bientôt public)*
 Scraping de spots d'urbex : déduplication, normalisation, géocodage. Sortie de 50 000 adresses propres dans une base accessible par l'application **Ourbex**, qui géolocalise les spots les plus proches de l'utilisateur. Plus d'un million d'adresses disponibles detectées.
