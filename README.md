@@ -40,10 +40,15 @@ Dashboard admin avec push WebSocket, requêtes pré-agrégées Postgres et cache
 - Linux (hardening VPS, UFW, fail2ban…)
 - Vercel
 
-**IA**
-LLM:Perplexity, Anthropic...
-Agents: outils et contexte via MCP
----
+
+**Ia**
+- Claude (cursor)
+- Codex
+- Perplexity
+- OpenClaw
+- Midjourney
+- Nano Banana
+- Suno
 
 ### Me joindre
 [Email](udwigyoda@gmail.com)
