@@ -5,9 +5,20 @@ Ancien indépendant en en e-com. Diplômé de Technofutur TIC en 2025. Aujourd'h
 
 ---
 
-### En ce moment
+### Projets
+[**Menu de tablette intéractif pour restaurant**](https://github.com/Ludwigyoda/Digital_Restaurant_Menu) Public
+Menu intéractif pour restaurant avec menu premuim secret, screen lock pour la clientèle, système d'update et de fonctionnement offline automatique.
+Le restaurant est basée en Chine il est donc multingue.
 
-Je développe mon activité et démarche mes premiers clients. En parallèle, je creuse les agents et l'orchestration multi-LLM pour proposer des solutions concrètes autour de l'automatisation et de la productivité. Ouvert aux propositions, missions courtes ou longues.
+[**urbex-detector**](https://github.com/ludwigyoda) *(bientôt public)*
+Scraping de spots d'urbex : déduplication, normalisation, géocodage. Sortie de 50 000 adresses propres dans une base accessible par l'application **Ourbex**, qui géolocalise les spots les plus proches de l'utilisateur. Plus d'un million d'adresses disponibles detectées.
+
+[**patient-hub**](https://github.com/ludwigyoda) *(accès sur demande)*
+App React Native qui capte des marqueurs biométriques de façon passive et déclenche un rapport médical au format SOAP quand certains seuils sont franchis.
+Exemple: Tremblement régulier -> Parkinson selon l'évolution de l'intensité
+
+[**realtime-dashboard**](https://github.com/ludwigyoda) *(accès sur demande)*
+Dashboard admin avec push WebSocket, requêtes pré-agrégées Postgres et cache LRU côté serveur. Plusieurs widgets se rafraîchissent à des fréquences indépendantes.
 
 ---
 
@@ -32,24 +43,6 @@ Je développe mon activité et démarche mes premiers clients. En parallèle, je
 **IA**
 LLM:Perplexity, Anthropic...
 Agents: outils et contexte via MCP
-
----
-
-### Projets
-[**Menu de tablette intéractif pour restaurant**](https://github.com/Ludwigyoda/Digital_Restaurant_Menu) Public
-Menu intéractif pour restaurant avec menu premuim secret, screen lock pour la clientèle, système d'update et de fonctionnement offline automatique.
-Le restaurant est basée en Chine il est donc multingue.
-
-[**urbex-detector**](https://github.com/ludwigyoda) *(bientôt public)*
-Scraping de spots d'urbex : déduplication, normalisation, géocodage. Sortie de 50 000 adresses propres dans une base accessible par l'application **Ourbex**, qui géolocalise les spots les plus proches de l'utilisateur. Plus d'un million d'adresses disponibles detectées.
-
-[**patient-hub**](https://github.com/ludwigyoda) *(accès sur demande)*
-App React Native qui capte des marqueurs biométriques de façon passive et déclenche un rapport médical au format SOAP quand certains seuils sont franchis.
-Exemple: Tremblement régulier -> Parkinson selon l'évolution de l'intensité
-
-[**realtime-dashboard**](https://github.com/ludwigyoda) *(accès sur demande)*
-Dashboard admin avec push WebSocket, requêtes pré-agrégées Postgres et cache LRU côté serveur. Plusieurs widgets se rafraîchissent à des fréquences indépendantes.
-
 ---
 
 ### Me joindre
